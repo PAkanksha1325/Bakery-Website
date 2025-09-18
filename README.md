@@ -1,7 +1,7 @@
-# h1 Responsive Bakery Website :-
-##h3 A bakery website built using HTML, CSS, and JavaScript provides a fundamental and interactive online presence for a bakery.
+#  Responsive Bakery Website :-
+## A bakery website built using HTML, CSS, and JavaScript provides a fundamental and interactive online presence for a bakery.
 
-##h2 Features :-
+## Features :-
 * Product Catalog
 * Online Ordering & payment
 * Customer-Friendly Interface
@@ -10,7 +10,7 @@
 * Social Media Integration
 * Security
 
-##h2 Functions :-
+## Functions :-
 * Digital Storefront
 * Marketing & Sales
 * Customer Engagement
